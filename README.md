@@ -1,10 +1,16 @@
-# Site Abu# Welcome to your Lovable project
+# Site Abu# Site Abu# Welcome to your Lovable project
 
 
 
-Este é o repositório do site Abu, um projeto desenvolvido com tecnologias modernas para oferecer uma experiência excepcional aos usuários.## Project info
+Este é o repositório do site Abu, desenvolvido com Vite + React + Tailwind.
 
 
+
+Link principal de demonstração: [https://site-abu.vercel.app/](https://site-abu.vercel.app/)Este é o repositório do site Abu, um projeto desenvolvido com tecnologias modernas para oferecer uma experiência excepcional aos usuários.## Project info
+
+
+
+Para visualizar o site, acesse o link acima.
 
 ## Tecnologias Utilizadas**URL**: https://lovable.dev/projects/4b22f069-682f-4662-9ab3-3fd53caffd9c
 

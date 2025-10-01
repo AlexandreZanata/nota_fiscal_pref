@@ -19,11 +19,11 @@ Para visualizar o site, acesse o link acima.
 
 - Vite
 
-- React## How can I edit this code?
+- React
 
 - TypeScript
 
-- Tailwind CSSThere are several ways of editing your application.
+- Tailwind 
 
 - shadcn/ui
 

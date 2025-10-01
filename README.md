@@ -63,11 +63,11 @@ This project is built with:
 ## How can I deploy this project?
 
 Simply open [Lovable](https://lovable.dev/projects/4b22f069-682f-4662-9ab3-3fd53caffd9c) and click on Share -> Publish.
+# Site Abu
 
-## Can I connect a custom domain to my Lovable project?
+Este é o repositório do site Abu, desenvolvido com Vite + React + Tailwind.
 
-Yes, you can!
+Link principal de demonstração: [https://site-abu.vercel.app/](https://site-abu.vercel.app/)
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
+Para visualizar o site, acesse o link acima.
 Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)

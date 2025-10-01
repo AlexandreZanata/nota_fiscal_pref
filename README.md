@@ -6,7 +6,11 @@ Este é o repositório do site de Nota Fiscal, desenvolvido com Vite + React + T
 
 
 
-Link principal de demonstração: [https://site-abu.vercel.app/](https://site-abu.vercel.app/)Este é o repositório do site Abu, um projeto desenvolvido com tecnologias modernas para oferecer uma experiência excepcional aos usuários.## Project info
+<a href="https://site-abu.vercel.app/" target="_blank" rel="noopener noreferrer">🔗 Acesse a demonstração do Site</a>
+
+Este é o repositório do site Pref, um projeto desenvolvido com tecnologias modernas para oferecer uma experiência excepcional aos usuários.
+
+## Project info
 
 
 
